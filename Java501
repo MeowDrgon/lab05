@@ -1,5 +1,5 @@
 import java.util.Scanner;
-  public class Java501{
+  public class JPA501{
      static Scanner keyboard = new Scanner(System.in);
      public static void main(String args[]) {
         int n;
